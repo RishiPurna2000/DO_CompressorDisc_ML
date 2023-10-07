@@ -12,7 +12,7 @@ In this plot, District-wise production under Mash Cultivation in punjab is more 
 
 Scatter Plot 
 
-We can see from above plot that slmost all district have same production for all years.
+We can see from above plot that slmost all district have same production for all years. Data set used is similar to Line plot.
 
 Box Plot 
 
